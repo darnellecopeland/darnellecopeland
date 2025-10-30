@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on self-employed company
 - 🌱 I’m currently learning AI technology
+- 👯 I’m looking to collaborate on freelancing business
 <!--
 **darnellecopeland/darnellecopeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
